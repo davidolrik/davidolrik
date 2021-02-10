@@ -5,7 +5,7 @@
 ### 🔒 Secure contact information
 
 [![Public key](https://img.shields.io/badge/public%20key-davidolrik.txt-orange?logo=gnu-privacy-guard&logoColor=white)](
-    https://raw.githubusercontent.com/davidolrik/davidolrik/master/pgp/davidolrik.txt
+    https://github.com/davidolrik.gpg
 )
 ![Signal: +4542411911](https://img.shields.io/badge/signal-+4542411911-orange?logo=signal&logoColor=white)
 
