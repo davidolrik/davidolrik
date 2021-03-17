@@ -2,7 +2,7 @@
 
 <img align="right" alt="Lets talk!" src="https://raw.githubusercontent.com/davidolrik/davidolrik/master/img/watercooler-right.png">
 
-### 🔒 Secure contact information
+### 🔒 Secure&nbsp;contact&nbsp;information
 
 [![Public key](https://img.shields.io/badge/public%20key-davidolrik.txt-orange?logo=gnu-privacy-guard&logoColor=white)](
     https://github.com/davidolrik.gpg
