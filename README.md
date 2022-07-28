@@ -7,7 +7,7 @@
 [![Public key](https://img.shields.io/badge/public%20key-davidolrik.gpg-orange?logo=gnu-privacy-guard&logoColor=white)](
     https://github.com/davidolrik.gpg
 )
-![Signal: +4542411911](https://img.shields.io/badge/signal-+4542411911-orange?logo=signal&logoColor=white)
+![Matrix: @davidolrik:matrix.org](https://img.shields.io/badge/matrix-@davidolrik:matrix.org-orange?logo=matrix&logoColor=white)
 
 ### 💬 Social
 
