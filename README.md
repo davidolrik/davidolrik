@@ -35,6 +35,9 @@
 [![LinkedIn: @davidolrik](https://img.shields.io/badge/linkedin-%40davidolrik-blue)](
     https://www.linkedin.com/in/davidolrik/
 )
+[![Mastodon: @davidolrik@fosstodon.org](https://img.shields.io/badge/mastodon-%40davidolrik-blue)](
+    https://fosstodon.org/@davidolrik
+)
 [![Twitter: @davidolrik](https://img.shields.io/badge/twitter-%40davidolrik-blue)](
     https://twitter.com/davidolrik
 )
