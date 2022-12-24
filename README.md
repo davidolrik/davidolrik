@@ -37,7 +37,7 @@
 )
 [![Mastodon: @davidolrik@fosstodon.org](https://img.shields.io/badge/mastodon-%40davidolrik-blue)](
     https://fosstodon.org/@davidolrik
-)
+){rel=me}
 [![Twitter: @davidolrik](https://img.shields.io/badge/twitter-%40davidolrik-blue)](
     https://twitter.com/davidolrik
 )
