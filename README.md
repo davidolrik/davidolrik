@@ -83,4 +83,4 @@ Be **excellent** to each other!
     <a href="https://grepmasters.com"><sub>π</sub></a>
 </p>
 
-<a rel="me" href="https://fosstodon.org/@davidolrik"></a>
+<a rel="nofollow me" href="https://fosstodon.org/@davidolrik"></a>
