@@ -53,6 +53,7 @@
 ![Perl](https://img.shields.io/badge/-Perl-414270?style=flat&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffd43b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=f0db4f)
+![Golang](https://img.shields.io/badge/-Golang-007d9c?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-grey?style=flat&logo=open-source-initiative&logoColor=3da639)
 
