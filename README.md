@@ -58,7 +58,7 @@
 ![Open Source](https://img.shields.io/badge/-Open%20Source-grey?style=flat&logo=open-source-initiative&logoColor=3da639)
 
 [![Editor:
-vscode/emacs](https://img.shields.io/badge/editor-vscode%20/%20emacs-blueviolet)](
+vscode/helix/emacs](https://img.shields.io/badge/editor-vscode%20/%20helix%20/%20emacs-blueviolet)](
     https://howivscode.com/davidolrik
 )
 [![Indent: spaces](https://img.shields.io/badge/indent-spaces-blueviolet)](
