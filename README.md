@@ -1,6 +1,6 @@
 ## Hi I'm David 🖖🏽 Let's automate everything!
 
-<img align="right" alt="Lets talk!" src="https://raw.githubusercontent.com/davidolrik/davidolrik/master/img/watercooler-right.png">
+<img align="right" alt="Lets talk!" src="https://raw.githubusercontent.com/davidolrik/davidolrik/main/img/watercooler-right.png">
 
 ### 🔒&nbsp;Secure&nbsp;contact&nbsp;information
 
@@ -50,15 +50,15 @@
 
 ### ⚙️ Personal preferences
 
+![Golang](https://img.shields.io/badge/-Golang-007d9c?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=white)
 ![Perl](https://img.shields.io/badge/-Perl-414270?style=flat&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffd43b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=f0db4f)
-![Golang](https://img.shields.io/badge/-Golang-007d9c?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-grey?style=flat&logo=open-source-initiative&logoColor=3da639)
 
 [![Editor:
-vscode/helix/emacs](https://img.shields.io/badge/editor-vscode%20/%20helix%20/%20emacs-blueviolet)](
+vscode/helix](https://img.shields.io/badge/editor-vscode%20/%20helix-blueviolet)](
     https://howivscode.com/davidolrik
 )
 [![Indent: spaces](https://img.shields.io/badge/indent-spaces-blueviolet)](
@@ -68,7 +68,8 @@ vscode/helix/emacs](https://img.shields.io/badge/editor-vscode%20/%20helix%20/%2
 
 ### 📜 Personal code of conduct
 
-Be **excellent** to each other!
+<img alt="Be **excellent** to each other!" src="https://raw.githubusercontent.com/davidolrik/davidolrik/main/img/be-excellent.jpg">
+
 
 ## &nbsp;
 
