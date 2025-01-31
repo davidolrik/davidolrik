@@ -79,7 +79,7 @@ vscode/helix](https://img.shields.io/badge/editor-vscode%20/%20helix-blueviolet)
 )
 
  <p align="right">
-    <a href="https://grepmasters.com"><sub>π</sub></a>
+    <a href="https://olrik.it"><sub>π</sub></a>
 </p>
 
 <a rel="nofollow me" href="https://fosstodon.org/@davidolrik"></a>
